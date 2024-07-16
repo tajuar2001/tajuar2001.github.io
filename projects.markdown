@@ -12,8 +12,6 @@ A web application supporting new parents, built with React, Flask, and SQLAlchem
 - Personalized resources and dashboard
 - Empowers parents with tailored support
 
-[GitHub Repository](https://github.com/tajuar2001/newLeaf)
-
 **Skills:** Python 3.12, React, HTML5, Flask, SQLite, AWS EC2
 
 <br>
@@ -25,8 +23,6 @@ Reengineering of AKAI MPK Mini II MIDI keyboard into a digital synthesizer.
 - Real-time autotune and vocoder functionalities
 - Utilizes Teensy 4.1 microcontroller and Raspberry Pi
 - Advanced signal processing and audio I/O capabilities
-
-[GitHub Repository](https://github.com/tajuar2001/Lazy-Tune)
 
 **Skills:** Python, C/C++, RTOS, DSP, PJRC libraries, Tinker
 
@@ -40,8 +36,6 @@ Implementation of efficient streaming algorithms for stock trading.
 - Optimized for processing large data streams
 - Focuses on timely results and memory efficiency
 
-[GitHub Repository](https://github.com/tajuar2001/CPlusQuant)
-
 **Skills:** C++
 
 <br>
@@ -53,8 +47,6 @@ Creating immersive spatial sound using 2-channel audio.
 - Utilizes Digital Signal Processing techniques
 - Implements concepts like ITD, ILD, and HRTF
 - Simulates three-dimensional audio experience
-
-[GitHub Repository](https://github.com/tajuar2001/Spatial-Audio)
 
 **Skills:** Python, MATLAB
 
