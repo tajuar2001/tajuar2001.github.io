@@ -3,16 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+i recently graduated from the university of michigan college of engineering with a bse in computer science. i'm from the bronx, new york, and i love math and computers.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+during my time at umich, i made the dean's list, and received university honors. i was actively involved in campus life, participating in michigan hacker, msa, asa, bsa, lsa, and the trading club.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+my coursework covered a wide range of topics in computer science and engineering, including:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- computer organization
+- data structures and algorithms
+- compiler construction
+- computer networks
+- human-centered software design
 
+i also delved into mathematics and signal processing, studying linear algebra, calculus, statistics, and digital signal processing. my passion for ai/ml led me to explore natural language processing, machine learning theory, and computer vision.
 
-[jekyll-organization]: https://github.com/jekyll
+Always open to new ideas, feel free to reach out to me at tajuarb[at]umich[dot]edu.
