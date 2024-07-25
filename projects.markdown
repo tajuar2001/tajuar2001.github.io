@@ -1,77 +1,77 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 ---
 
-## [New Leaf](https://github.com/tajuar2001/newLeaf)
+## [new leaf](https://github.com/tajuar2001/newleaf)
 
-A web application supporting new parents, built with React, Flask, and SQLAlchemy.
+a web application supporting new parents, built with react, flask, and sqlalchemy.
 
-- Community building and expert advice features
-- Personalized resources and dashboard
-- Empowers parents with tailored support
+- community building and expert advice features
+- personalized resources and dashboard
+- empowers parents with tailored support
 
-**Skills:** Python 3.12, React, HTML5, Flask, SQLite, AWS EC2
-
-<br>
-
-## [Lazy-Tune](https://github.com/tajuar2001/Lazy-Tune)
-
-Reengineering of AKAI MPK Mini II MIDI keyboard into a digital synthesizer.
-
-- Real-time autotune and vocoder functionalities
-- Utilizes Teensy 4.1 microcontroller and Raspberry Pi
-- Advanced signal processing and audio I/O capabilities
-
-**Skills:** Python, C/C++, RTOS, DSP, PJRC libraries, Tinker
+**skills:** python 3.12, react, html5, flask, sqlite, aws ec2
 
 <br>
 
-## [Stock Trading Algorithm](https://github.com/tajuar2001/CPlusQuant)
+## [lazy-tune](https://github.com/tajuar2001/lazy-tune)
 
-Implementation of efficient streaming algorithms for stock trading.
+reengineering of akai mpk mini ii midi keyboard into a digital synthesizer.
 
-- Sliding window approach with priority queues
-- Optimized for processing large data streams
-- Focuses on timely results and memory efficiency
+- real-time autotune and vocoder functionalities
+- utilizes teensy 4.1 microcontroller and raspberry pi
+- advanced signal processing and audio i/o capabilities
 
-**Skills:** C++
-
-<br>
-
-## [Spatial Audio Reconstruction](https://github.com/tajuar2001/Spatial-Audio)
-
-Creating immersive spatial sound using 2-channel audio.
-
-- Utilizes Digital Signal Processing techniques
-- Implements concepts like ITD, ILD, and HRTF
-- Simulates three-dimensional audio experience
-
-**Skills:** Python, MATLAB
+**skills:** python, c/c++, rtos, dsp, pjrc libraries, tinker
 
 <br>
 
-## MiniTwit
+## [stock trading algorithm](https://github.com/tajuar2001/cplusquant)
 
-A Flask-based social media platform showcasing full-stack development.
+implementation of efficient streaming algorithms for stock trading.
 
-- Integrated with AWS VPC for enhanced security
-- Provides isolated computing resources
-- Ensures secure user data handling
+- sliding window approach with priority queues
+- optimized for processing large data streams
+- focuses on timely results and memory efficiency
 
-**Skills:** Python, HTML, CSS, Shell, AWS
+**skills:** c++
 
 <br>
 
-## Chess Engine
+## [spatial audio reconstruction](https://github.com/tajuar2001/spatial-audio)
 
-An efficient chess game engine using advanced algorithms.
+creating immersive spatial sound using 2-channel audio.
 
-- Implements mega-max, alpha-pruning, and Monte Carlo Tree Search
-- Leverages Stockfish for high Elo-ranking AI moves
-- Optimized for strategic move selection
+- utilizes digital signal processing techniques
+- implements concepts like itd, ild, and hrtf
+- simulates three-dimensional audio experience
 
-**Skills:** Python, Stockfish, TensorFlow
+**skills:** python, matlab
+
+<br>
+
+## minitwit
+
+a flask-based social media platform showcasing full-stack development.
+
+- integrated with aws vpc for enhanced security
+- provides isolated computing resources
+- ensures secure user data handling
+
+**skills:** python, html, css, shell, aws
+
+<br>
+
+## chess engine
+
+an efficient chess game engine using advanced algorithms.
+
+- implements mega-max, alpha-pruning, and monte carlo tree search
+- leverages stockfish for high elo-ranking ai moves
+- optimized for strategic move selection
+
+**skills:** python, stockfish, tensorflow
 
 ---
