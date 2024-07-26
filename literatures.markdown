@@ -6,12 +6,11 @@ permalink: /literature/
 
 ## papers i co-authored
 
-### [approaches to word embeddings](https://drive.google.com/file/d/1mqspzt6-5hxn6t4kije_yoxprjcst1v9/view?usp=sharing)
+### [approaches to word embeddings](https://drive.google.com/file/d/1mqSpzT6-5HxN6t4KIJe_YOXpRjcSt1v9/view?usp=sharing)
 
 this project explores theoretical frameworks for understanding the empirical success of various word embedding methods, such as pmi, word2vec, and glove. the rand-walk model combines a log-linear topic model with a random walk over a latent discourse space, offering insights into the linear structures observed in word embeddings and their ability to solve analogies. the research highlights the importance of low dimensionality and isotropy in capturing semantic relationships between words.
 
-
-### [music genre classification](https://drive.google.com/file/d/15gy7nea2jyjnbqp4ddvthbyxqd7rifo2/view?usp=sharing)
+### [music genre classification](https://drive.google.com/file/d/15gy7NEA2jYjNbQp4DDVthbyXqD7Rifo2/view?usp=sharing)
 
 this project focuses on improving music genre classification, crucial for digital platforms like spotify. using the gtzan dataset, we transformed 30-second audio clips into short-time fourier transform (stft) and mel-scale spectrograms. our approach utilized densely connected convolutional networks (densenet) and introduced adaptive training techniques to enhance classification accuracy and prevent overfitting. the model's performance was comprehensively evaluated using auroc metrics.
 
