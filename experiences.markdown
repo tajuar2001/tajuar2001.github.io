@@ -4,11 +4,12 @@ title: experiences
 permalink: /experiences/
 ---
 
-## site reliability engineer
+## software development engineer 
 ### [discover financial services](https://www.discover.com/) | chicago, illinois | august 2024 - 
 
 - monitoring and maintaining the secure file transfer protocols across the platform, ensuring reliable and efficient transmission of large datasets across distributed systems.
 - enhancing system reliability and performance by optimizing data transfer processes and addressing potential issues proactively.
+- datadogs, gpfs, python, shell scripting, jenkins, and unix. 
 
 <br>
 

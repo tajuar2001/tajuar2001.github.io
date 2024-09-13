@@ -3,6 +3,18 @@ layout: page
 title: projects
 permalink: /projects/
 ---
+<br>
+
+## blink 'n' bank
+fast high-frequency trading algorithm using book builders, feed handlers, oms, and strategy engines
+
+- real-time data processing and adaptive strategies
+- optimized for high throughput
+- semi-state machine architecture(trying)
+
+**Skills:** c++, python, linux, tf
+
+<br>
 
 ## [new leaf](https://github.com/tajuar2001/newleaf)
 
