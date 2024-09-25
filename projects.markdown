@@ -5,14 +5,13 @@ permalink: /projects/
 ---
 <br>
 
-## blink 'n' bank
+## high freq trading
 fast high-frequency trading algorithm using book builders, feed handlers, oms, and strategy engines
 
-- real-time data processing and adaptive strategies
-- optimized for high throughput
-- semi-state machine architecture(trying)
+- engineering a high-performance hft system achieving sub-millisecond latency and 100,000+ messages second throughput, featuring a zero-copy, cache-aligned order book with o(1) price level updates and o(log n) order insertions/cancellations, and optimized memory management using custom pool allocators.
+- integrating a modular, event-driven architecture utilizing separate thread pools for market data processing, strategy execution, and order management, integrated with low-latency tcp/ip sockets for real-time market data transmission and order execution.
 
-**Skills:** c++, python, linux, tf
+**Skills:** c++, c, linux, tf
 
 <br>
 

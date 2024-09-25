@@ -7,25 +7,26 @@ permalink: /experiences/
 ## software development engineer 
 ### [discover financial services](https://www.discover.com/) | chicago, illinois | august 2024 - 
 
-- monitoring and maintaining the secure file transfer protocols across the platform, ensuring reliable and efficient transmission of large datasets across distributed systems.
-- enhancing system reliability and performance by optimizing data transfer processes and addressing potential issues proactively.
-- datadogs, gpfs, python, shell scripting, jenkins, and unix. 
+- enhancing discover's file transfer platform (dftp), orchestrating and optimizing the secure transmission of over 30,000 internal and external files daily by improving system reliability, performance, and mitigating real-time issues.
+
+
+-- datadogs, gpfs, python, shell scripting, jenkins, and unix. 
 
 <br>
 
 ## software engineering intern
 ### [viasat inc.](https://www.viasat.com/about/) | carlsbad, california | may 2023 - august 2023
 
-- engineered an adaptive detection model by manipulating k-means clustering, isolation forest, and hbos algorithms, achieving a 52% reduction in anomalous client behaviors and increasing system resilience.
-- spearheaded setup of an anomaly detection system via an api, outperforming previous solutions by identifying 76% more irregular behaviors, providing valuable insights into usage patterns and system vulnerabilities, and averting potential losses of up to $1,000,000.
-- crafted a feedback system, enabling clients to validate or negate flagged anomalous behaviors which resulted in a 30% improvement in model accuracy and allowed a tailored experience for each unique client.
+- developed and implemented machine learning models for anomaly detection, leveraging k-means clustering, isolation forest, and hbos algorithms, achieving a 52\% reduction in anomalous client behaviors.
+- architected and deployed a high-performance anomaly detection API, uncovering 26\% more irregularities, and mitigating risks valued at up to \$1,000,000.
+- designed an client feedback loop for the ml system, enabling dynamic model refinement based on user input, which drove a 30\% increase in detection accuracy and facilitated personalized anomaly thresholds for individual clients.
 
 <br>
 
 ## software engineering intern
 ### [carrier global](https://www.corporate.carrier.com/) | indianapolis, indiana | may 2022 - august 2022
 
-- optimized and expanded an existing aws infrastructure for ecobee's data protection and security by reconfiguring aws and lambda functions, saving an estimated $500,000 annually.
+- ptimized and expanded an existing AWS infrastructure for Ecobee’s data protection and security by reconfiguring AWS and Lambda functions, saving an estimated \$200,000 annually.
 - devised a ci/cd pipeline using jenkins, python 3.7, and shell scripts, automated routine unit testing for carrier's 2023 smart thermostat by 43%, thereby replacing the carrier comfort network (ccn). reduced time-to-market by 15%.
 
 <br>
